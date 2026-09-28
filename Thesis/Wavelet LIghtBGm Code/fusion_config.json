@@ -1,0 +1,9 @@
+{
+  "strategy": "stacking_meta_learner",
+  "alpha_weight_on_model_a": null,
+  "class_names": [
+    "Benign",
+    "Malignant",
+    "Normal"
+  ]
+}
