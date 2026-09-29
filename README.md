@@ -8,3 +8,14 @@ This repository contains the implementation and comparative analysis of machine 
 
 **Supervisor:** Mahrin Tasfe, Senior Lecturer  
 **Institution:** Department of Computer Science and Engineering, Brac University  
+---
+
+## 🎯 Research Objectives
+
+- Design and evaluate ML-based systems for accurate breast cancer detection
+- Compare supervised vs. semi-supervised learning under limited labeled data
+- Implement data preprocessing and augmentation to handle noise and class imbalance
+- Develop an efficient framework to assist medical professionals in early diagnosis
+
+---
+
